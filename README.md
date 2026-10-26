@@ -8,7 +8,7 @@
 
 <br>
 <a href="https://github.com/Yevan-0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F5C542&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yevan+%F0%9F%97%A1%EF%B8%8F;I+build+things+for+the+web+%F0%9F%8C%90;TypeScript+%E2%80%A2+React+%E2%80%A2+Python;Turning+coffee+into+commits+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=F5C542&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yevan+%F0%9F%97%A1%EF%B8%8F;I+build+things+for+the+web+%F0%9F%8C%90;TypeScript+%E2%80%A2+React+%E2%80%A2+NestJs;Turning+coffee+into+commits+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -72,7 +72,7 @@ const yevan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,html,css,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nest,next,spring,express,nodejs,html,css,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
 
 </div>
 
