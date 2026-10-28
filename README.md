@@ -27,7 +27,7 @@
 
 ---
 
-## 🛡️ About Me
+## About Me
 
 ```ts
 const yevan = {
@@ -35,20 +35,20 @@ const yevan = {
   location: "Sri Lanka 🇱🇰",
   role: "Developer",
   currentlyLearning: ["Advanced TypeScript", "System design", "Cool new frameworks"],
-  funFact: "I debug with console.log and I'm not ashamed 😎",
+  funFact: "I debug with console.log and I'm not ashamed",
   lookingFor: "Projects worth building and people worth building with",
 };
 ```
 
-- 🔭 Building web apps with **React** and **TypeScript**
-- 🐍 Hacking on automation and tools with **Python**
-- 🕸️ Poking around the web with scrapers and little experiments
-- 🎮 Making small games for fun
-- 🌱 Always learning, always shipping
+-  Building web apps with **React** and **TypeScript**
+-  Hacking on automation and tools with **Python**
+-  Poking around the web with scrapers and little experiments
+-  Making small games for fun
+-  Always learning, always shipping
 
 ---
 
-## 🧚 Interests
+## Interests
 
 <div align="center">
 
@@ -61,14 +61,13 @@ const yevan = {
 
 </div>
 
-- 🎮 **Gaming** – exploring big worlds and building small ones
-- 🎧 **Music** – always something playing while I code
-- 🏅 **Sports** – **rowing** 🚣 and **badminton** 🏸
-- 🎥 **Videography** and 📷 **photography** – capturing moments worth keeping
+- **Gaming** – exploring big worlds and building small ones
+- **Music** – always something playing while I code
+- **Videography** and  **photography** – capturing moments worth keeping
 
 ---
 
-## 🎒 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,41 +77,41 @@ const yevan = {
 
 ---
 
-## 🗺️ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏰 <a href="https://github.com/Yevan-0/Portfolio">Portfolio</a></h3>
+      <h3><a href="https://github.com/Yevan-0/Portfolio">Portfolio</a></h3>
       <p>My personal corner of the internet, built with TypeScript.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏹 <a href="https://github.com/Yevan-0/target-hunter">target-hunter</a></h3>
+      <h3><a href="https://github.com/Yevan-0/target-hunter">target-hunter</a></h3>
       <p>A TypeScript project all about hunting down targets.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍖 <a href="https://github.com/Yevan-0/Recipe-Manager">Recipe-Manager</a></h3>
+      <h3><a href="https://github.com/Yevan-0/Recipe-Manager">Recipe-Manager</a></h3>
       <p>Keep your recipes organised, powered by Python.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>⛩️ <a href="https://github.com/Yevan-0/torii-game">torii-game</a></h3>
+      <h3><a href="https://github.com/Yevan-0/torii-game">torii-game</a></h3>
       <p>A JavaScript game project with a Japanese gate theme.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/Yevan-0/web-scraping">web-scraping</a></h3>
+      <h3><a href="https://github.com/Yevan-0/web-scraping">web-scraping</a></h3>
       <p>Experiments in pulling data off the web.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3>📜 <a href="https://github.com/Yevan-0/react-assignments">react-assignments</a></h3>
+      <h3><a href="https://github.com/Yevan-0/react-assignments">react-assignments</a></h3>
       <p>My React learning journey, one assignment at a time.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
@@ -121,7 +120,7 @@ const yevan = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -134,7 +133,7 @@ const yevan = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -146,7 +145,7 @@ const yevan = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
