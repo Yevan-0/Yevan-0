@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d12,50:1f4d2b,100:f5c542&height=220&section=header&text=Yevan%20Dewathanthriarachchi&fontSize=42&fontColor=f5c542&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Tinkerer&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d12,50:1f4d2b,100:f5c542&height=220&section=header&text=YEVAN%20DEWATHANTHRIARACHCHI&fontFamily=Monument&fontSize=30&fontColor=f5c542&animation=fadeIn&fontAlignY=36&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20TINKERER&descAlignY=58&descSize=18&descColor=ffffff&v=2" width="100%" alt="header" />
 
 <img src="./triforce.svg" width="120" alt="Triforce" />
 
