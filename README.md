@@ -71,7 +71,7 @@ const yevan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nest,next,spring,express,nodejs,html,css,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nest,next,spring,express,prisma,postgresql,mysql,nodejs,html,css,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
 
 </div>
 
